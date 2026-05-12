@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=ln&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="WEBSITE_URL">
-    <img src="https://img.shields.io/badge/Website-(In progress)-2563EB?style=for-the-badge&logo=42&logoColor=white" alt="Website (in progress)" />
+    <img src="https://img.shields.io/badge/Website-(In%20progress)-2563EB?style=for-the-badge&logo=42&logoColor=white" alt="Website (in progress)" />
   </a>
 </p>
 
