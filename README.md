@@ -1,6 +1,6 @@
 # Lucas Bordanave
 
-<button type="button">Click Me</button>
+<button><a href="https://example.com">Visit Example</a></button>
 
 <!--
 **UnixCodable/UnixCodable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
