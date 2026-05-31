@@ -70,23 +70,21 @@ and love exploring new technologies in Linux environments.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Public Projects
 
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
-| [fly-in](https://github.com/UnixCodable/fly-in) | Public project | — | — |
+| [fly-in](https://github.com/UnixCodable/fly-in) | Public project | Python | — |
 | [codexion](https://github.com/UnixCodable/codexion) | Multi-threading C project | C | — |
 | [lucasbordanave.dev](https://github.com/UnixCodable/lucasbordanave.dev) | Personal website/portfolio | Python | — |
-| [UnixCodable](https://github.com/UnixCodable/UnixCodable) | Profile repository | — | — |
 | [python_piscine](https://github.com/UnixCodable/python_piscine) | Python piscine exercises | Python | — |
 | [a_maze_ing](https://github.com/UnixCodable/a_maze_ing) | A labyrinth creation project made with Python (with RShikder) | Python | ⭐ 1 |
 | [warship_java](https://github.com/UnixCodable/warship_java) | A warship game made aside of school to train myself (JAVA VERSION) | Java | ⭐ 1 |
 | [warship](https://github.com/UnixCodable/warship) | A warship game made aside of school to train myself | C | — |
 | [get_next_line_little_tester](https://github.com/UnixCodable/get_next_line_little_tester) | Tester for get_next_line | C | — |
 | [libft](https://github.com/UnixCodable/libft) | Library creation in C - Project from 42 | C | — |
-| [libftTester](https://github.com/UnixCodable/libftTester) | Tester for the libft project of 42 school (Forked from Tripouille/libftTester) | C++ | — |
 
 ### Private Projects
 
@@ -101,7 +99,7 @@ and love exploring new technologies in Linux environments.
 
 ---
 
-## 📚 42 School Projects
+## 42 School Projects
 
 - **[libft](https://github.com/UnixCodable/libft)** — Standard C library
 - **[ft_printf](https://github.com/UnixCodable/ft_printf)** — Custom printf implementation
@@ -111,14 +109,14 @@ and love exploring new technologies in Linux environments.
 
 ---
 
-## 🎮 Games I've Built
+## Games I've Built
 
 - **[warship](https://github.com/UnixCodable/warship)** (C) & **[warship_java](https://github.com/UnixCodable/warship_java)** (Java) — Battleship game
 - **[a_maze_ing](https://github.com/UnixCodable/a_maze_ing)** (Python) — Labyrinth creator
 
 ---
 
-## 📬 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-bordanave-822685253/">
